@@ -1,0 +1,11 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Airtable schema output files
+airtable_schema_*.json
+
+# macOS specific
+.DS_Store
